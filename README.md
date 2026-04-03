@@ -46,7 +46,7 @@
 ## 📸 界面预览 (Quick Tour)
 
 ![Software Screenshot]([https://www.wemodel.net/assets/img/wemodel-screenshot.png](http://www.wemodel.net/assets/img/screen.png))
-*(建议在此处替换为一张展示 6D 位姿标注或复杂分割任务的震撼截图)*
+
 
 ---
 
