@@ -39,7 +39,6 @@
 
 ### 📦 深度生态兼容
 *   **全格式支持**: 原生导出 YOLO (v5-v11), COCO, Pascal VOC, TFRecord 等 30+ 种工业格式。
-*   **智能辅助**: 集成 SAM (Segment Anything) 接口，实现亚像素级边缘自动贴合。
 
 ---
 
@@ -53,7 +52,7 @@
 ## 🛠 快速开始 (Quick Start)
 
 ### 1. 下载
-前往 [Releases](https://github.com/wemodel/wemodel-studio/releases) 页面获取最新的 Windows 社区预览版 `.zip` 包。
+前往 [Releases]([https://github.com/wemodel/wemodel-studio/releases](https://github.com/wemodelnet/WeModel-IDE/releases/tag/release)) 页面获取最新的 Windows 社区预览版 `.zip` 包。
 
 ### 2. 运行
 安装后运行 `WeModel.exe`。
