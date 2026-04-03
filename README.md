@@ -2,7 +2,6 @@
 
 
 <div align="center">
-  <img src="https://www.wemodel.net/assets/img/logo-main.png" alt="WeModel Logo" width="120">
   <h1>WeModel Studio</h1>
   <p><strong>具身智能时代的底层 IDE | The Underlying IDE for Embodied AI</strong></p>
 
@@ -50,7 +49,7 @@
 
 ## 📸 界面预览 (Quick Tour)
 
-![Software Screenshot](https://www.wemodel.net/assets/img/wemodel-screenshot.png)
+![Software Screenshot]([https://www.wemodel.net/assets/img/wemodel-screenshot.png](http://www.wemodel.net/assets/img/screen.png))
 *(建议在此处替换为一张展示 6D 位姿标注或复杂分割任务的震撼截图)*
 
 ---
@@ -61,23 +60,11 @@
 前往 [Releases](https://github.com/wemodel/wemodel-studio/releases) 页面获取最新的 Windows 社区预览版 `.zip` 包。
 
 ### 2. 运行
-解压后运行 `WeModel_Studio.exe`。
-*   *注：本软件为绿色版，无需安装，不修改系统注册表。*
+安装后运行 `WeModel.exe`。
 
 ### 3. 导入
 支持一键导入旧版的 `LabelMe` 或 `CVAT` 工程，实现无损平移。
 
----
-
-## 🧪 技术底座 (Technical Roadmap)
-
-WeModel 不仅仅是一个工具，它是具身智能的物理宪法。
-
-| 阶段 | 技术特征 | 目标 |
-| :--- | :--- | :--- |
-| **V1.0 (Alpha)** | C++ Native Core / 2D+3.5D Labeling | 极致流畅的单机 IDE |
-| **V2.0 (Beta)** | **LAD Protocol (.wmdl)** / PINN Audit | 建立工业级部署标准 |
-| **V3.0 (Stable)** | Multi-modal BCI / Swarm Synergy | 迈向通用具身感知平台 |
 
 ---
 
@@ -85,7 +72,7 @@ WeModel 不仅仅是一个工具，它是具身智能的物理宪法。
 
 *   **官方网站**: [www.wemodel.net](https://www.wemodel.net)
 *   **问题反馈**: 请提交 [GitHub Issues](https://github.com/wemodel/wemodel-studio/issues)
-*   **LaaS 专家服务**: 如需大规模高精度标注代工或私有模型微调，请联系 [business@wemodel.net](mailto:business@wemodel.net)
+*   **LaaS 专家服务**: 如需大规模高精度标注代工或私有模型微调，请联系 [business@wemodel.net](mailto:xiaomishu@wemodel.net)
 
 ---
 
@@ -96,7 +83,3 @@ WeModel 不仅仅是一个工具，它是具身智能的物理宪法。
 
 ---
 
-<div align="center">
-  <p>Proudly built in <strong>Optics Valley</strong></p>
-  <img src="https://www.wemodel.net/assets/img/academic-logo.png" width="200" alt="Academic Background">
-</div>
